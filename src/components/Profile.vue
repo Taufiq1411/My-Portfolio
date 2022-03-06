@@ -84,7 +84,7 @@
                   <i class="fas fa-university mr-2 text-lg text-gray-500"></i
                   >PT STECHOQ ROBOTIKA INDONESIA
                 </div>
-                <div class="container flex">
+                <div class="container md:flex">
                     <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-10">
                     <a href="#">
                         <img class="rounded-t-lg" src="../assets/p1.png" alt="" />
