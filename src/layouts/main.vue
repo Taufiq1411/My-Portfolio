@@ -1,12 +1,10 @@
 <template>
-  <div>
-    <header>
+    <header class="sticky top-0 z-50">
         <the-nav />
     </header>
-    <body>
+    <body class=relative>
         <slot />
     </body>
-  </div>
 </template>
 
 <script>
